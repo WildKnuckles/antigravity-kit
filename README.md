@@ -11,13 +11,13 @@
 ## Quick Install
 
 ```bash
-npx @vudovn/ag-kit init
+npx @wildk/antigravity-kit init
 ```
 
 Or install globally:
 
 ```bash
-npm install -g @vudovn/ag-kit
+npm install -g @wildk/antigravity-kit
 ag-kit init
 ```
 
@@ -30,7 +30,6 @@ This installs the `.agent` folder containing all templates into your project.
 | **Agents**    | 20    | Specialist AI personas (frontend, backend, security, PM, QA, etc.) |
 | **Skills**    | 36    | Domain-specific knowledge modules                                  |
 | **Workflows** | 11    | Slash command procedures                                           |
-
 
 ## Usage
 
