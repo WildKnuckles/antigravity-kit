@@ -1,5 +1,5 @@
 {
-  "name": "@wildk/antigravity-kit",
+  "name": "mindware-antigravity-kit",
   "version": "2.0.0",
   "description": "AI Agent templates - Skills, Agents, and Workflows for enhanced coding assistance",
   "bin": {

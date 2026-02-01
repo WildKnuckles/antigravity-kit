@@ -11,13 +11,13 @@
 ## Quick Install
 
 ```bash
-npx @wildk/antigravity-kit init
+npx mindware-antigravity-kit init
 ```
 
 Or install globally:
 
 ```bash
-npm install -g @wildk/antigravity-kit
+npm install -g mindware-antigravity-kit
 ag-kit init
 ```
 

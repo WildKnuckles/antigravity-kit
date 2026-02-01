@@ -7,7 +7,7 @@ const args = process.argv.slice(2);
 const command = args[0];
 
 if (command !== "init") {
-    console.log("Usage: npx @wildk/antigravity-kit init");
+    console.log('Usage: npx mindware-antigravity-kit init');
     process.exit(1);
 }
 
